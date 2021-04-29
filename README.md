@@ -10,6 +10,7 @@ RingNetNcpCoP용 terraform sample code입니다.
   - 윈도우 환경 설정(PDF참조)
 - Helm 설치
   - choco install https://chocolatey.org/install
-  - helm 설치 choco install kubernetes-helm
+  - helm 설치 
+  choco install kubernetes-helm
 
 부족한 부분은이 있을 수 있으니 공유해드린 PDF 파일을 참조 부탁 드립니다.
