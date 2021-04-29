@@ -14,6 +14,9 @@ RingNetNcpCoP용 terraform sample code입니다.
   ```bat
   choco install kubernetes-helm
   ```
+- VScode 설치 
+  - 기존에 사용 하시거나, 다른 editor를 사용하시면 따로 설치 안하셔도 됩니다.
+  - https://code.visualstudio.com/
     
 
 부족한 부분은이 있을 수 있으니 공유해드린 PDF 파일을 참조 부탁 드립니다.
