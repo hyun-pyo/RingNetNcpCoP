@@ -10,13 +10,13 @@ variable "ncp_region" {
 
 variable "ncp_access_key" {
   description = "ncp_access_key"
-  default     = "xcADbYkmaSKgjkvekVXD"
+  default     = "ncp_access_key"
   type        = string
 }
 
 variable "ncp_secret_key" {
   description = "ncp_secret_key"
-  default     = "PnPfZjVG1Jw2S8bGDTwk7qbCD5JftDWUtMylHO8d"
+  default     = "ncp_secret_key"
   type        = string
 }
 
